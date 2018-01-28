@@ -1,4 +1,5 @@
-function happyHolidays(){
+function happyHolidays(name){
+  name = undefined
   return "Happy Holidays!"
 }
 function happyHolidaysTo(nikhil){
