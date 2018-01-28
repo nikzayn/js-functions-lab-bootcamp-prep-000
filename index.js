@@ -7,3 +7,6 @@ function happyHolidaysTo(nikhil){
 function happyHolidayTo(Christmas, Angelina){
   return `Happy ${Christmas}, ${Angelina}!`
 }
+function holidayCountdown(seven, Christmas){
+  
+}
