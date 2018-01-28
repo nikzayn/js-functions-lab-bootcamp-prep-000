@@ -1,9 +1,9 @@
 function happyHolidays(){
   return "Happy holidays!"
 }
-function happyHolidaysTo(name){
+function happyHolidaysTo(Nikhil){
   return `Happy holidays, ${name}!`
 }
 function happyHolidaysTo(name, Diwali){
-  return 'Happy ${holiday}, ${name}!'
+  return `Happy ${holiday}, ${name}!`
 }
