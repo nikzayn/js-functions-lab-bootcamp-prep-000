@@ -1,4 +1,4 @@
-function happyHolidays(Uint8ClampedArray){
+function happyHolidays(){
   return "Happy Holidays!"
 }
 function happyHolidaysTo(name){
